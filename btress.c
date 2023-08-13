@@ -6,8 +6,9 @@ int main(void) {
 	scanf("%d",&n);
     int a[4];
      for (int i=0;i<4;i++){
-        scanf("%d",&a[i]);
-     }
+        scanf("%d
+		take a new chance
+		
     n=4;
 	for (int i=0;i<n-1;i++){
 	        int min=i;
